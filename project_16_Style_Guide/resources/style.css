@@ -1,0 +1,101 @@
+/* https://www.w3schools.com/cssref/index.php */
+
+@font-face {
+    font-family: "NFLEAGLE";
+    src: url(./NFL-Eagles/NFLEAGLE.TTF);
+    /*https://www.ffonts.net/NFL-Eagles.font.zip*/
+  }
+
+body {
+    /*font-family:"NFLEAGLE";*/
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+    margin: 20px 10%;
+}
+
+h1 {
+    font-family:"NFLEAGLE";
+    color:#004C54;
+}
+
+h2 {
+    color:#004C54;
+}
+
+.rtfm {
+    margin: 5px auto;
+}
+
+.rtfm:hover {
+    background-color:gray;
+    color:gray;
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding:10px;
+    margin: 10px auto;
+
+}
+
+.color-container {
+    width:100%;
+    margin: 10px 0px;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    margin: 20px 5px;
+    min-height: 100px;
+
+}
+
+.color_1 {
+    background-color:#004C54;
+    color: #A5ACAFff;
+    margin: auto;
+}
+
+.color_2 {
+    background-color: #A5ACAF;
+    color: #565A5C;
+    margin: auto;
+}
+
+.color_3 {
+    background-color: #565A5C;
+    color: #ACC0C6;
+    margin: auto;
+}
+
+.color_4 {
+    background-color: black;
+    color: white;
+    margin: auto;
+}
+
+.color_5 {
+    background-color: #ffffff;
+    color: black;
+    margin: auto;
+}
+
+.font-family-1 {
+    font-family:"cursive";
+}
+
+.font-2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.font-3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+

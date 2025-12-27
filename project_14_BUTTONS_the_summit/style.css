@@ -1,0 +1,80 @@
+/* link styling order: 
+:link {}
+:visited {} 
+:hover {}
+:active {}
+cursor style: https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
+
+pseudo-style standard: https://hg.mozilla.org/mozilla-central/file/3d57107fcf9f/modules/libpref/init/all.js#l212
+
+html5 standard: https://html.spec.whatwg.org/multipage/rendering.html#the-css-user-agent-style-sheet-and-presentational-hints
+*/
+
+.nav-link:link {}
+
+.nav-link:visited {
+  color: #551A8B;
+} 
+
+.nav-link:hover {
+  cursor: grab;
+}
+
+.nav-link:active {
+  color: #FF0000;
+}
+
+.btn {
+  height: 500px;
+  width: 100%;
+  margin: 50px;
+}
+
+.btn:link {
+  border: 2px solid #0c960c;
+  border-radius: 50px;
+  background-color: white;
+  color: #2176FF;
+  font-family: 'Amatic SC',sans-serif;
+  font-size: 30px;
+  margin: 0px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+.btn:visited {} 
+
+.btn:hover {
+  border-color: red;
+  border-width: 5px;
+  cursor: grab;
+  /*transition: all 1s ease-out;*/
+}
+
+.btn:active {
+  color: #DBE9EE;
+  transition: font-size .1s ease-in-out;
+}
+
+.activity {
+  border: 1px solid #2176FF;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.activity:link {}
+.activity:visited {} 
+.activity:hover {
+  /*border-color: red;
+  border-width: 5px;*/
+  background-color: #fff;
+  color: #5495ff;
+  transition: color .1s ease-in, background-color .1s ease-in;
+}
+.activity:active {
+  font-size: 40px;
+  transition: font-size .1s;
+}
+
+

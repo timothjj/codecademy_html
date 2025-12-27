@@ -2,29 +2,49 @@
 
 ## Intro
 
-### Project 1: Fashion Blog
+### Project 01: Fashion Blog
 
 Your friend Isa is a budding fashion blogger, and she’s asked you to build her a new website, just in time for New York Fashion Week!
 
 ## Tables
 
-### Project 2: Wine Festival
+### Project 02: Wine Festival
 
 In this project, we’re going to practice tabular organization in HTML so you can hone your skills and feel confident taking them to the real world. Why? If you’re going to have data on a webpage, you’ve got to master the skill of effectively and aesthetically organizing it – an HTML table is the perfect solution.
 
 ## Multimedia
 
-### Project 3: NYC Blog
+### Project 03: NYC Blog
 
 Create a blog about New York City using various semantic elements to show off how amazing the Big Apple is!
 
 ## Forms
 
-### Burger Menu
+### Project 04: Burger Menu
 
-### Login
+### Project 05: Login Validation
 
-### Story
+https://www.codecademy.com/courses/learn-html-forms/lessons/html-form-validation/exercises/validation-intro
+
+### Project 06: Generate a Madlibs Story
+
+https://www.codecademy.com/courses/learn-html-forms/projects/form-a-story
+
+## CSS
+
+project_07_SELECTORS_healthy_recipes
+project_08_SELECTORS_olivia_woodruff_portfolio
+project_09_BOX_davies_brugers 
+project_10_POSITIONING_broadway                 
+project_11_off-platform_dashmoto  
+project_12_colors 
+project_13_typology
+project_14_BUTTONS_the_summit
+project_15_BREADCRUMBS_blueberries
+project_16_Style_Guide
+project_17_Flexbox_to-do
+project_18_FLEXBOX-tea_shop
+project_19_Responsive_Design-Tsunami_Coffee
 
 # Host on EC2 with Amazon Linux 2023
 

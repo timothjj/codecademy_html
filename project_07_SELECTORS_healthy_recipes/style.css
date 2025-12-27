@@ -1,0 +1,36 @@
+img {
+    height: 150px;
+  }
+  
+  /*applies to class="description" on line 13 */
+  /*prefix a . for classes*/
+  .description {
+    font-size: 20px;
+  }
+  
+  /*applies to id='cook-time' on line 15 */
+  /*prefix a # for id'd elements */
+  #cook-time { 
+    font-weight: bold;
+  }
+  
+  /*change the bullet type*/
+  .ingredients {
+    list-style: square;
+  }
+  
+  /*style time class within p elements*/
+  p.time {
+    color: gray;
+  }
+  
+  .external-link {
+    color: SeaGreen;
+  }
+  
+  h1,h2,p,li {
+    font-family: Helvetica;
+  }
+  
+  
+  
