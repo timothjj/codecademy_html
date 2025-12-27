@@ -32,19 +32,19 @@ https://www.codecademy.com/courses/learn-html-forms/projects/form-a-story
 
 ## CSS
 
-project_07_SELECTORS_healthy_recipes
-project_08_SELECTORS_olivia_woodruff_portfolio
-project_09_BOX_davies_brugers 
-project_10_POSITIONING_broadway                 
-project_11_off-platform_dashmoto  
-project_12_colors 
-project_13_typology
-project_14_BUTTONS_the_summit
-project_15_BREADCRUMBS_blueberries
-project_16_Style_Guide
-project_17_Flexbox_to-do
-project_18_FLEXBOX-tea_shop
-project_19_Responsive_Design-Tsunami_Coffee
+### project_07_SELECTORS_healthy_recipes
+### project_08_SELECTORS_olivia_woodruff_portfolio
+### project_09_BOX_davies_brugers 
+### project_10_POSITIONING_broadway                 
+### project_11_off-platform_dashmoto  
+### project_12_colors 
+### project_13_typology
+### project_14_BUTTONS_the_summit
+### project_15_BREADCRUMBS_blueberries
+### project_16_Style_Guide
+### project_17_Flexbox_to-do
+### project_18_FLEXBOX-tea_shop
+### project_19_Responsive_Design-Tsunami_Coffee
 
 # Host on EC2 with Amazon Linux 2023
 
